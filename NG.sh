@@ -19,6 +19,6 @@ echo "Abrindo o Datastudio (funil) também na 2ª janela do Chrome..."
 google-chrome "https://datastudio.google.com/u/1/reporting/a76e096a-5a87-41ea-b5a2-84862ff410ab/page/p_a69bqoiitc"
 
 echo "Abrindo o Monday também na 2ª janela do Chrome..."
-google-chrome "https://ngcash.monday.com/boards/2547043373/views/57717029"
+google-chrome "https://ngcash.monday.com/boards/2788400361/views/63988554"
 
 notify-send "Tenha um ótimo dia de trabalho :)"
